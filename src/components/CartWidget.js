@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 const CartWidget = () => {
 
-    const [cont, setCont] = useState00)
+    const [cont, setCont] = useState(0)
 
     const sumar = () => setCont (cont+1)
   return (
